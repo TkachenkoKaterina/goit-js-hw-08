@@ -16,9 +16,11 @@
   "author": "Katerina Tkachenko <Tkachenko.city@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/TkachenkoKaterina/goit-js-hw-08/issues"
   },
   "dependencies": {
+    "@vimeo/player": "^2.18.0",
+    "lodash.throttle": "^4.1.1",
     "modern-normalize": "^1.1.0",
     "simplelightbox": "^2.10.4"
   },
